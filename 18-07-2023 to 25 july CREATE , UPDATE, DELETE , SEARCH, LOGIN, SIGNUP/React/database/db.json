@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "name": "md alam syed",
+      "age": "18",
+      "email": "shahnawazalam@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "syed",
+      "age": "22",
+      "email": "syed@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "mohammad",
+      "age": "21",
+      "email": "mohammad@gmail.com",
+      "id": 4
+    }
+  ]
+}

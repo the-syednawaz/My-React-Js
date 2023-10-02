@@ -1,0 +1,11 @@
+
+*{
+    margin: 0px; padding: 0px; box-sizing: border-box;
+}
+.footer{padding: 40px; font-size: 22px; text-align: center; background: black; color: wheat;}
+.para{text-align: justify;
+margin-top: 10px; }
+.mtitle{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; width: 100%; margin-top: 5px; font-size: 40px; text-align:  center;}
+.div1{padding: 10px; background: orange;}
+.div2{padding: 20px; background: wheat;}
+.Active{border-bottom: 4px solid blue;}
